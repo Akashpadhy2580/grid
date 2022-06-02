@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22468" started-at="2022-05-08T14:24:55 IST" finished-at="2022-05-08T14:25:17 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="8569" started-at="2022-05-08T14:24:55 IST" finished-at="2022-05-08T14:25:03 IST">
+      <class name="mypack.Test2">
+        <test-method status="PASS" signature="method(java.lang.String,java.lang.String)[pri:0, instance:mypack.Test2@36b4cef0]" name="method" duration-ms="8535" started-at="2022-05-08T14:24:55 IST" finished-at="2022-05-08T14:25:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.0.103:5556/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- mypack.Test2 -->
+    </test> <!-- Test1 -->
+    <test name="Test3" duration-ms="10729" started-at="2022-05-08T14:24:55 IST" finished-at="2022-05-08T14:25:06 IST">
+      <class name="mypack.Test2">
+        <test-method status="PASS" signature="method(java.lang.String,java.lang.String)[pri:0, instance:mypack.Test2@43bd930a]" name="method" duration-ms="10691" started-at="2022-05-08T14:24:55 IST" finished-at="2022-05-08T14:25:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.0.103:5558/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[operablink]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- mypack.Test2 -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="12589" started-at="2022-05-08T14:25:03 IST" finished-at="2022-05-08T14:25:16 IST">
+      <class name="mypack.Test2">
+        <test-method status="PASS" signature="method(java.lang.String,java.lang.String)[pri:0, instance:mypack.Test2@5891e32e]" name="method" duration-ms="12585" started-at="2022-05-08T14:25:04 IST" finished-at="2022-05-08T14:25:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.0.103:5559/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- mypack.Test2 -->
+    </test> <!-- Test4 -->
+    <test name="Test2" duration-ms="22464" started-at="2022-05-08T14:24:55 IST" finished-at="2022-05-08T14:25:17 IST">
+      <class name="mypack.Test2">
+        <test-method status="PASS" signature="method(java.lang.String,java.lang.String)[pri:0, instance:mypack.Test2@52f759d7]" name="method" duration-ms="22430" started-at="2022-05-08T14:24:55 IST" finished-at="2022-05-08T14:25:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.0.103:5557/wd/hub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- mypack.Test2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
